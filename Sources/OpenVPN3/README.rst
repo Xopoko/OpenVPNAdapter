@@ -646,8 +646,3 @@ Contributing
 ------------
 
 See `<CONTRIBUTING.rst>`_.
-
-License
--------
-
-See `<LICENSE.rst>`_.
