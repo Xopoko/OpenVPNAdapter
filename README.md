@@ -7,7 +7,6 @@
 ![Carthage Compatible](https://img.shields.io/badge/Carthage-Compatible-4BC51D.svg?style=flat)
 ![Cocoapods Compatible](https://img.shields.io/badge/Cocoapods-Compatible-4BC51D.svg?style=flat)
 ![Swift Package Manager Compatible](https://img.shields.io/badge/Swift%20Package%20Manager-Compatible-4BC51D.svg?style=flat)
-![License](https://img.shields.io/badge/License-AGPLv3-lightgrey.svg)
 
 ## !!!ATTENTION!!!
 Due to the lack of time and motivation the support of this project was dropped. If you need a solution for OpenVPN please take a look at alternatives such as [TunnelKit](https://github.com/passepartoutvpn/tunnelkit).
@@ -348,12 +347,3 @@ Any contributions and suggestions are welcome! But before creating a PR or an is
 
 ## Acknowledgments
 Special thanks goes to [@JonathanDowning](https://github.com/JonathanDowning) for great help in development of this project and bug fixing.
-
-## License
-OpenVPNAdapter is available under the AGPLv3 license. See the [LICENSE](LICENSE) file for more info. Also this project has a few dependencies:
-- [openvpn3](https://github.com/OpenVPN/openvpn3)
-- [asio](https://github.com/chriskohlhoff/asio)
-- [lz4](https://github.com/lz4/lz4)
-- [mbedtls](https://github.com/ARMmbed/mbedtls)
-
-See the [NOTICE](NOTICE) file for more info about their licenses and copyrights.
